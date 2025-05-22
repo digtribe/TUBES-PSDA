@@ -1,0 +1,7 @@
+TUGAS BESAR PROYEK STRUKTUR DATA ALGORITMA
+KELOMPOK 2 
+ANGGOTA:
+1. Aggra Kurnia Idhan   G1A024003 
+2. Atikah Putri Utami  G1A024027 
+3. Agief Vemas Afrivanzah G1A024037 
+4. Farhan Khairullah  G1A024043
